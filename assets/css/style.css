@@ -1,5 +1,5 @@
 body{
-    background-color: #212529;
+    background-color: #202122;
 }
 
 
@@ -17,7 +17,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: #212529;
+    color: #c7d0d8;
     font-size: 4rem;
     font-weight: bold;
 }
